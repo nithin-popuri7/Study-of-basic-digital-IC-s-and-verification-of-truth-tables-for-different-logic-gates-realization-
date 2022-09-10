@@ -75,15 +75,15 @@ nand (y5,a,b);
 nor (y6,a,b);
 xnor (y7,a,b);
 endmodule 
-Logic symbol & Truthtable
 ~~~
 
 ## Output:
-RTL realization
+Logic symbol & Truthtable
 ![GitHub Logo](de.png)
+RTL realization
 
 ![GitHub Logo](de1.png)
 
 
-Result:
+## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
