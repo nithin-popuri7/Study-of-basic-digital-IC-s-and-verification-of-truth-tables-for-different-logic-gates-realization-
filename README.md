@@ -79,7 +79,8 @@ endmodule
 
 ## Output:
 Logic symbol & Truthtable
-![GitHub Logo](de.png)
+
+![GitHub Logo](de.jpeg)
 RTL realization
 
 ![GitHub Logo](de1.jpeg)
