@@ -82,7 +82,7 @@ Logic symbol & Truthtable
 ![GitHub Logo](de.png)
 RTL realization
 
-![GitHub Logo](de1.png)
+![GitHub Logo](de1.jpeg)
 
 
 ## Result:
