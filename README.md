@@ -80,11 +80,15 @@ endmodule
 ## Output:
 Logic symbol & Truthtable
 
-![de](https://user-images.githubusercontent.com/94154780/189796963-f51d8592-f82a-4280-a5df-79f3bc0c8bc2.png
+![de](https://user-images.githubusercontent.com/94154780/189797231-44b34e42-6cab-465c-a4d3-be0daeea21c8.png)
+
 
 RTL realization
 
-![GitHub Logo](de1.jpeg)
+![de1](https://user-images.githubusercontent.com/94154780/189797292-be8db67a-3893-49ea-8729-67e4c0b329ea.jpeg)
+
+
+
 
 
 ## Result:
